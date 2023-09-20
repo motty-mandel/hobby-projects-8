@@ -1,0 +1,19 @@
+{
+  "name": "hobby-projects-8",
+  "version": "1.0.0",
+  "description": "This is an employee tracer application within the terminal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
